@@ -1,7 +1,7 @@
 # About Me:
 <h2>Hi 👋, I'm Frank Esteban</h2>
 
-Soy un apasionado desarrollador frontend con más de 8 años de experiencia en el fascinante mundo de la creación web. Mi trayectoria profesional me ha permitido perfeccionar mis habilidades en el diseño y desarrollo de interfaces de usuario cautivadoras y altamente funcionales.
+Soy un apasionado desarrollador frontend con más de 5 años de experiencia en el fascinante mundo de la creación web. Mi trayectoria profesional me ha permitido perfeccionar mis habilidades en el diseño y desarrollo de interfaces de usuario cautivadoras y altamente funcionales.
 A lo largo de mi carrera, he tenido el privilegio de trabajar en diversos proyectos que abarcan desde sitios web corporativos hasta aplicaciones web complejas. Mi enfoque se centra en la creación de experiencias de usuario intuitivas y atractivas, utilizando las últimas tecnologías y mejores prácticas del mundo del desarrollo web.
 Me considero un apasionado por mantenerme actualizado en las tendencias del frontend, explorando constantemente nuevas herramientas y frameworks que me permitan ofrecer soluciones innovadoras y eficientes. Además, mi compromiso con la accesibilidad y la usabilidad garantiza que las aplicaciones que desarrollo sean inclusivas y fáciles de usar para todos los usuarios.
 
