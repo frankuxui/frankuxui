@@ -1,4 +1,4 @@
-![just-the-basics](https://github.com/frankuxui/frankuxui/blob/main/cover.png)
+![frankuxui cover](https://github.com/frankuxui/frankuxui/blob/main/cover.png)
 
 Soy un apasionado desarrollador frontend con más de 5 años de experiencia en el fascinante mundo de la creación web
 
