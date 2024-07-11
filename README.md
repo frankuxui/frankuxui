@@ -1,6 +1,6 @@
 ![frankuxui cover](https://github.com/frankuxui/frankuxui/blob/main/cover.png)
 
-Soy un apasionado desarrollador frontend con más de 5 años de experiencia en el fascinante mundo de la creación web
+Soy un apasionado desarrollador frontend con más de 8 años de experiencia en el fascinante mundo de la creación web
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=frankuxui&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
