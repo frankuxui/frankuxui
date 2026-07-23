@@ -89,20 +89,6 @@ También mantengo proyectos personales donde experimento con componentes de inte
 - 🌐 [Portfolio principal](https://frankuxui.com)
 - 📄 [Currículum online](https://frankuxui.github.io/frankuxui-curriculum/)
 
-## Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=frankuxui&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub de Frankuxui" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=frankuxui&theme=radical&hide_border=true" alt="Racha de contribuciones de Frankuxui" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frankuxui&theme=radical&hide_border=true&layout=compact&langs_count=8" alt="Lenguajes más utilizados por Frankuxui" />
-</p>
-
 ---
 
 <p align="center">
