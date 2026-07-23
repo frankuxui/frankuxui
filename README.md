@@ -1,20 +1,111 @@
-![frankuxui cover](https://github.com/frankuxui/frankuxui/blob/main/frankuxui-cover.png)
+![Frankuxui cover](https://github.com/frankuxui/frankuxui/blob/main/frankuxui-cover.png)
 
-Soy un apasionado desarrollador frontend con más de 8 años de experiencia en el fascinante mundo de la creación web
+# Hola, soy Frank Esteban 👋
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=frankuxui&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=frankuxui&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=frankuxui&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### Frontend Developer · UI Engineer · Creador de experiencias web
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=frankuxui&limit=5&theme=radical&combine_all_yearly_contributions=true)
+Soy desarrollador frontend con más de **8 años de experiencia** construyendo interfaces modernas, accesibles y orientadas a producto. Mi formación en Bellas Artes aporta una sensibilidad especial por la composición visual, la tipografía y el detalle, mientras que mi experiencia técnica me permite convertir diseños complejos en aplicaciones sólidas, rápidas y escalables.
+
+Trabajo principalmente con **React, Next.js, Astro, TypeScript y Tailwind CSS**, y tengo experiencia integrando CMS, APIs, buscadores, analítica, automatizaciones y servicios desplegados en infraestructura propia.
+
+Mi enfoque combina:
+
+- Arquitectura frontend mantenible y escalable.
+- Diseño de componentes reutilizables y sistemas de UI.
+- Rendimiento, accesibilidad, SEO técnico y experiencia de usuario.
+- Integración con APIs, CMS headless y servicios de terceros.
+- Automatización de procesos mediante IA, MCP y n8n.
+- Despliegues con Docker, PM2, Traefik, Cloudflare y Vercel.
+
+## Sobre mi trabajo
+
+Actualmente desarrollo productos web corporativos y aplicaciones orientadas a negocio, especialmente en proyectos con catálogos, formularios, contenido dinámico, buscadores, analítica y automatización comercial.
+
+También mantengo proyectos personales donde experimento con componentes de interfaz, animaciones, JavaScript Vanilla, nuevas arquitecturas frontend y herramientas de inteligencia artificial aplicadas al desarrollo.
+
+## Especialidades
+
+- Desarrollo frontend con React, Next.js, Astro y Svelte.
+- Arquitectura de aplicaciones y separación de responsabilidades.
+- Componentes reutilizables, design systems y documentación con Storybook.
+- Gestión de estado, formularios complejos y validación de datos.
+- Integración de APIs REST, CMS headless y motores de búsqueda.
+- SEO técnico, Core Web Vitals, Google Analytics y Google Tag Manager.
+- Animaciones e interfaces interactivas con Motion, GSAP y Swiper.
+- Automatizaciones con n8n, webhooks, MCP e inteligencia artificial.
+- Infraestructura y despliegues en VPS con Docker, PM2 y Traefik.
+
+## Stack principal
+
+### Frontend
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### UI, estado y datos
+
+![Shadcn UI](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white)
+![Motion](https://img.shields.io/badge/Motion-FFF312?style=for-the-badge&logo=framer&logoColor=black)
+
+### Backend, contenido y automatización
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Strapi](https://img.shields.io/badge/Strapi-4945FF?style=for-the-badge&logo=strapi&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+
+### Infraestructura y herramientas
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+## Actualmente estoy trabajando en
+
+- Aplicaciones corporativas con Next.js, React y Strapi.
+- Sistemas de componentes y patrones reutilizables de interfaz.
+- Automatizaciones con n8n, webhooks e inteligencia artificial.
+- Integraciones de búsqueda, analítica, CRM y contenido dinámico.
+- Proyectos personales sobre frontend, UI y JavaScript Vanilla.
+
+## Sitios y contacto
+
+- 🌐 [Portfolio principal](https://frankuxui.com)
+- 🧪 [Laboratorio y blog técnico](https://frankuxui.dev)
+- 📄 [Currículum online](https://frankuxui.github.io/frankuxui-curriculum/)
+
+## Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=frankuxui&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub de Frankuxui" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=frankuxui&theme=radical&hide_border=true" alt="Racha de contribuciones de Frankuxui" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frankuxui&theme=radical&hide_border=true&layout=compact&langs_count=8" alt="Lenguajes más utilizados por Frankuxui" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=frankuxui&icon=5&color=0)](https://visitcount.itsvg.in)
 
-
-# 💻 Tech Stack:
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Hugo](https://img.shields.io/badge/Hugo-black.svg?style=for-the-badge&logo=Hugo) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![SolidJS](https://img.shields.io/badge/SolidJS-2c4f7c?style=for-the-badge&logo=solid&logoColor=c8c9cb) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![Stylus](https://img.shields.io/badge/stylus-%23ff6347.svg?style=for-the-badge&logo=stylus&logoColor=white) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  Diseño, código y producto trabajando en la misma dirección.
+</p>
