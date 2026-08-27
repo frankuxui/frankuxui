@@ -87,6 +87,7 @@ También mantengo proyectos personales donde experimento con componentes de inte
 ## Sitios y contacto
 
 - 🌐 [Portfolio principal](https://frankuxui.com)
+- 🌐 [Portfolio](https://frankuxui.dev)
 - 📄 [Currículum online](https://frankuxui.github.io/frankuxui-curriculum/)
 
 ---
